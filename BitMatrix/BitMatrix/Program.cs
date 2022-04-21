@@ -1,7 +1,5 @@
 ﻿using System;
 
-namespace BitMatrix
-{
     internal class Program
     {
         static void Main(string[] args)
@@ -9,4 +7,4 @@ namespace BitMatrix
             Console.WriteLine("Hello World!");
         }
     }
-}
+
