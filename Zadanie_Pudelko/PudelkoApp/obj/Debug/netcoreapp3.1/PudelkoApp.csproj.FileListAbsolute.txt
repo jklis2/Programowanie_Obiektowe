@@ -1,0 +1,17 @@
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\bin\Debug\netcoreapp3.1\PudelkoApp.exe
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\bin\Debug\netcoreapp3.1\PudelkoApp.deps.json
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\bin\Debug\netcoreapp3.1\PudelkoApp.runtimeconfig.json
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\bin\Debug\netcoreapp3.1\PudelkoApp.runtimeconfig.dev.json
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\bin\Debug\netcoreapp3.1\PudelkoApp.dll
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\bin\Debug\netcoreapp3.1\PudelkoApp.pdb
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\bin\Debug\netcoreapp3.1\PudelkoLib.dll
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\bin\Debug\netcoreapp3.1\PudelkoLib.pdb
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\obj\Debug\netcoreapp3.1\PudelkoApp.csproj.AssemblyReference.cache
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\obj\Debug\netcoreapp3.1\PudelkoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\obj\Debug\netcoreapp3.1\PudelkoApp.AssemblyInfoInputs.cache
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\obj\Debug\netcoreapp3.1\PudelkoApp.AssemblyInfo.cs
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\obj\Debug\netcoreapp3.1\PudelkoApp.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\obj\Debug\netcoreapp3.1\PudelkoApp.csproj.CopyComplete
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\obj\Debug\netcoreapp3.1\PudelkoApp.dll
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\obj\Debug\netcoreapp3.1\PudelkoApp.pdb
+C:\Users\jakub\Downloads\Pudelko-Lab\Pudelko-Lab\PudelkoApp\obj\Debug\netcoreapp3.1\PudelkoApp.genruntimeconfig.cache

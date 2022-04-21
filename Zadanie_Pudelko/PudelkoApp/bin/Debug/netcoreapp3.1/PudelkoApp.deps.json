@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PudelkoApp/1.0.0": {
+        "dependencies": {
+          "PudelkoLib": "1.0.0"
+        },
+        "runtime": {
+          "PudelkoApp.dll": {}
+        }
+      },
+      "PudelkoLib/1.0.0": {
+        "runtime": {
+          "PudelkoLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PudelkoApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PudelkoLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

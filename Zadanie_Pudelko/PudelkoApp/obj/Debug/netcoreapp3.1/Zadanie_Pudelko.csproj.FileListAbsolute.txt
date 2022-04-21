@@ -1,0 +1,17 @@
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\bin\Debug\netcoreapp3.1\Zadanie_Pudelko.exe
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\bin\Debug\netcoreapp3.1\Zadanie_Pudelko.deps.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\bin\Debug\netcoreapp3.1\Zadanie_Pudelko.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\bin\Debug\netcoreapp3.1\Zadanie_Pudelko.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\bin\Debug\netcoreapp3.1\Zadanie_Pudelko.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\bin\Debug\netcoreapp3.1\Zadanie_Pudelko.pdb
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\bin\Debug\netcoreapp3.1\PudelkoLib.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\bin\Debug\netcoreapp3.1\PudelkoLib.pdb
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\obj\Debug\netcoreapp3.1\Zadanie_Pudelko.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\obj\Debug\netcoreapp3.1\Zadanie_Pudelko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\obj\Debug\netcoreapp3.1\Zadanie_Pudelko.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\obj\Debug\netcoreapp3.1\Zadanie_Pudelko.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\obj\Debug\netcoreapp3.1\Zadanie_Pudelko.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\obj\Debug\netcoreapp3.1\Zadanie_Pudelko.csproj.CopyComplete
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\obj\Debug\netcoreapp3.1\Zadanie_Pudelko.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\obj\Debug\netcoreapp3.1\Zadanie_Pudelko.pdb
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Zadanie_Pudelko\PudelkoApp\obj\Debug\netcoreapp3.1\Zadanie_Pudelko.genruntimeconfig.cache
