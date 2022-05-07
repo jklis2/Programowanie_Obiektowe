@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\bin\Debug\net5.0\Zadanie2.exe
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\bin\Debug\net5.0\Zadanie2.deps.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\bin\Debug\net5.0\Zadanie2.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\bin\Debug\net5.0\Zadanie2.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\bin\Debug\net5.0\Zadanie2.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\bin\Debug\net5.0\Zadanie2.pdb
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\obj\Debug\net5.0\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\obj\Debug\net5.0\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\obj\Debug\net5.0\Zadanie2.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\obj\Debug\net5.0\Zadanie2.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\obj\Debug\net5.0\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\obj\Debug\net5.0\Zadanie2.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\obj\Debug\net5.0\refint\Zadanie2.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\obj\Debug\net5.0\Zadanie2.pdb
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\obj\Debug\net5.0\Zadanie2.genruntimeconfig.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Kserokopiarka\Zadanie2\obj\Debug\net5.0\ref\Zadanie2.dll
