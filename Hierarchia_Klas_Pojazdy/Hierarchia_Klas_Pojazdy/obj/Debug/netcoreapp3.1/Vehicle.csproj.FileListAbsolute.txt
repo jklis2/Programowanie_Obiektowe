@@ -1,0 +1,14 @@
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\bin\Debug\netcoreapp3.1\Vehicle.exe
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\bin\Debug\netcoreapp3.1\Vehicle.deps.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\bin\Debug\netcoreapp3.1\Vehicle.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\bin\Debug\netcoreapp3.1\Vehicle.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\bin\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\bin\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\obj\Debug\netcoreapp3.1\Vehicle.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\obj\Debug\netcoreapp3.1\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\obj\Debug\netcoreapp3.1\Vehicle.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\obj\Debug\netcoreapp3.1\Vehicle.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\obj\Debug\netcoreapp3.1\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\obj\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\obj\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Hierarchia_Klas_Pojazdy\Hierarchia_Klas_Pojazdy\obj\Debug\netcoreapp3.1\Vehicle.genruntimeconfig.cache

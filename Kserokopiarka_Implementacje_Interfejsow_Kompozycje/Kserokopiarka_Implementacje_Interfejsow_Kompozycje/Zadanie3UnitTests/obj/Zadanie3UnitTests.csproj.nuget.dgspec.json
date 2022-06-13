@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3UnitTests\\Zadanie3UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3UnitTests\\Zadanie3UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3UnitTests\\Zadanie3UnitTests.csproj",
+        "projectName": "Zadanie3UnitTests",
+        "projectPath": "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3UnitTests\\Zadanie3UnitTests.csproj",
+        "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3\\Zadanie3.csproj": {
+                "projectPath": "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3\\Zadanie3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3\\Zadanie3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3\\Zadanie3.csproj",
+        "projectName": "Zadanie3",
+        "projectPath": "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3\\Zadanie3.csproj",
+        "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakub\\Documents\\GitHub\\ProgramowanieObiektowe\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Kserokopiarka_Implementacje_Interfejsow_Kompozycje\\Zadanie3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

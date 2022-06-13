@@ -1,0 +1,16 @@
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\bin\Debug\net5.0\Linq_To_Object_Płyta_CD.exe
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\bin\Debug\net5.0\Linq_To_Object_Płyta_CD.deps.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\bin\Debug\net5.0\Linq_To_Object_Płyta_CD.runtimeconfig.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\bin\Debug\net5.0\Linq_To_Object_Płyta_CD.runtimeconfig.dev.json
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\bin\Debug\net5.0\Linq_To_Object_Płyta_CD.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\bin\Debug\net5.0\Linq_To_Object_Płyta_CD.pdb
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\obj\Debug\net5.0\Linq_To_Object_Płyta_CD.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\obj\Debug\net5.0\Linq_To_Object_Płyta_CD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\obj\Debug\net5.0\Linq_To_Object_Płyta_CD.AssemblyInfoInputs.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\obj\Debug\net5.0\Linq_To_Object_Płyta_CD.AssemblyInfo.cs
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\obj\Debug\net5.0\Linq_To_Object_Płyta_CD.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\obj\Debug\net5.0\Linq_To_Object_Płyta_CD.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\obj\Debug\net5.0\refint\Linq_To_Object_Płyta_CD.dll
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\obj\Debug\net5.0\Linq_To_Object_Płyta_CD.pdb
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\obj\Debug\net5.0\Linq_To_Object_Płyta_CD.genruntimeconfig.cache
+C:\Users\jakub\Documents\GitHub\ProgramowanieObiektowe\Linq_To_Object_Płyta_CD\Linq_To_Object_Płyta_CD\obj\Debug\net5.0\ref\Linq_To_Object_Płyta_CD.dll
